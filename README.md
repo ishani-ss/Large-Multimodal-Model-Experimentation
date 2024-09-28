@@ -1,2 +1,2 @@
-# First-Principles-Of-Computer-Vision-Coursework
-This repository contains my lecture notes on an interesting course from Columbia University that I'm currently taking. Each entry is ordered by Module (e.g. M1) and Module week number (e.g. W1). 
+# Large Multimodal Model Experimentation
+This repository has been set up to contain research and experimentation on Large Multimodal Models on HuggingFace. More content to come. 
